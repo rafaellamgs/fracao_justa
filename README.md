@@ -12,7 +12,7 @@ cd fracao_justa
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
+...then start
 
 ```bash
 npm run dev
